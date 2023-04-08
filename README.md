@@ -10,7 +10,7 @@
   <img alt="gradle" src="https://img.shields.io/badge/-Gradle-A6A6A6?style=flat-square&logo=gradle&logoColor=white" />
   <img alt="Springboot" src="https://img.shields.io/badge/-Springboot-47C83E?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Amazon RDS" src="https://img.shields.io/badge/-Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-FAED7D?style=flat-square&logo=Amazon AWS&logoColor=white" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-F29661?style=flat-square&logo=Amazon AWS&logoColor=white" />
   <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-990085?style=flat-square&logo=intellij-idea&logoColor=white" />
   
 </p>
