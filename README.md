@@ -14,3 +14,5 @@
 
   
 </p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggh2260)](https://solved.ac/ggh2260/)
